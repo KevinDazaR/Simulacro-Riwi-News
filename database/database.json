@@ -1,0 +1,59 @@
+{
+  "news": [
+    {
+      "url_image_new":"https://st2.depositphotos.com/1004037/5558/i/450/depositphotos_55588255-stock-photo-tricolor-dog-jimp-agility-on.jpg",
+      "title_new":"Title Notice 5",
+      "description_new":"1This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+      "date_creation_new":"1/02/2024",
+      "author": "",
+      "category":""
+
+  },
+  {
+    "url_image_new":"https://media.istockphoto.com/id/1037513942/es/foto/golden-retriever-saltando-mientras-se-est%C3%A1-ejecutando.jpg?s=612x612&w=0&k=20&c=uoqKygUyZ0n0hCr2f1jltEi8BwpAk0OwuV_CHYINh9I=",
+    "title_new":"Title Notice 2",
+    "description_new":"2This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "date_creation_new":"2/02/2024"
+
+}
+],
+  "categories": [
+    {
+      "id":"1",
+      "nameCategory":"Tecnologìa",
+      "descriptionCategory":"1Últimas noticias sobre tecnología e innovación"
+    },
+    {
+      "id":"2",
+      "nameCategory":"Deportes",
+      "descriptionCategory":"2Noticias y análisis deportivos"
+    },
+    {
+      "id":"3",
+      "nameCategory":"Cultura",
+      "descriptionCategory":"3Eventos culturales, libros y arte"
+    }
+    
+  ], 
+  "users": [
+    {
+      "name": "kevin",
+      "email": "kevin@riwi.io",
+      "password": "kevin132",
+      "IsAdmin":true
+    },
+
+    {
+      "name": "vinke",
+      "email": "vinke@riwi.io",
+      "password": "kevin123",
+      "IsAdmin":true
+    },
+    {
+      "name": "daza",
+      "email": "daza@riwi.io",
+      "password": "daza",
+      "IsAdmin":false
+    }
+  ]
+}
